@@ -14,6 +14,6 @@
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)  
 
 ### 📫 How to Reach Me  
-[![GitHub](https://img.shields.io/badge/GitHub-ic7400a-181717?style=flat&logo=github)](https://github.com/ic7400a)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:atrigveda@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ic7400a-181717?style=flat&logo=github)](https://github.com/ic7400a)<br> 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:atrigveda@gmail.com)<br>
 [![Telegram](https://img.shields.io/badge/Telegram-Chat%20with%20me-26A5E4?style=flat&logo=telegram)](https://t.me/ic7400a)
