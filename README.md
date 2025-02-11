@@ -1,13 +1,7 @@
 ### Hi there 👋, I'm Ayusman Nanda!
-<p>[![IC7400A's github stats](https://github-readme-stats.vercel.app/api?username=ic7400a)](https://github.com/ic7400a) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ic7400a&layout=compact&theme=tokyonight)](https://github.com/ic7400a)</p>
+[![IC7400A's github stats](https://github-readme-stats.vercel.app/api?username=ic7400a)](https://github.com/ic7400a) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ic7400a&layout=compact&theme=tokyonight)](https://github.com/ic7400a)
 ![](https://komarev.com/ghpvc/?username=ic7400a&color=blueviolet) 
-
-### 🛠️ Tech Stack  
-#### Programming Languages  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
 
 #### Tools & Technologies  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
