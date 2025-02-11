@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ayusman Nanda!
-[![github stats](https://github-readme-stats.vercel.app/api?username=ic7400a)](https://github.com/ic7400a) <br>
+[![IC7400A's github stats](https://github-readme-stats.vercel.app/api?username=ic7400a)](https://github.com/ic7400a) <br>
 ![](https://komarev.com/ghpvc/?username=ic7400a&color=blueviolet)
 
 ### 🛠️ Tech Stack  
