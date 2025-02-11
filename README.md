@@ -20,7 +20,7 @@
 ---
 
 ### 📫 How to Reach Me  
-[![GitHub](https://img.shields.io/badge/GitHub-ic7400a-181717?style=flat&logo=github)](https://github.com/ic7400a)  
-[![GitLab](https://img.shields.io/badge/GitLab-View%20Profile-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/ic7400a)  
+[![GitHub](https://img.shields.io/badge/GitHub-IC7400A%20(View%20Profile)-181717?style=flat&logo=github)](https://github.com/ic7400a)  
+[![GitLab](https://img.shields.io/badge/GitLab-IC7400A%20(View%20Profile)-FC6D26?style=flat&logo=gitlab&logoColor=white)](https://gitlab.com/ic7400a)  
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:atrigveda@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-Chat%20with%20me-26A5E4?style=flat&logo=telegram)](https://t.me/ic7400a)  
+[![Telegram](https://img.shields.io/badge/Telegram-Chat%20with%20me-26A5E4?style=flat&logo=telegram)](https://t.me/ic7400a)
