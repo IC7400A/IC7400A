@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![IC7400A's github stats](https://github-readme-stats.vercel.app/api?username=ic7400a)](https://github.com/ic7400a)
 <!--
 **ayusman-nanda/ayusman-nanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
