@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ayusman Nanda!
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ic7400a">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ic7400a&show_icons=true&theme=tokyonight" />
   </a>
