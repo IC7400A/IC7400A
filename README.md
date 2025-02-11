@@ -1,17 +1,19 @@
-### Hi there 👋
+### Hi there 👋, I'm Ayusman Nanda!
 [![IC7400A's github stats](https://github-readme-stats.vercel.app/api?username=ic7400a)](https://github.com/ic7400a) <br>
 ![](https://komarev.com/ghpvc/?username=ic7400a&color=blueviolet)
-<!--
-**ayusman-nanda/ayusman-nanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+#### Programming Languages  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools & Technologies  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white)  
+
+### 📫 How to Reach Me  
+[![GitHub](https://img.shields.io/badge/GitHub-ic7400a-181717?style=flat&logo=github)](https://github.com/ic7400a)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:atrigveda@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat%20with%20me-26A5E4?style=flat&logo=telegram)](https://t.me/ic7400a)
