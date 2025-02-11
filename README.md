@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Ayusman Nanda!
-[![IC7400A's github stats](https://github-readme-stats.vercel.app/api?username=ic7400a)](https://github.com/ic7400a) <br>
-![](https://komarev.com/ghpvc/?username=ic7400a&color=blueviolet)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ic7400a&layout=compact&theme=tokyonight)](https://github.com/ic7400a)
-
+<p>[![IC7400A's github stats](https://github-readme-stats.vercel.app/api?username=ic7400a)](https://github.com/ic7400a) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ic7400a&layout=compact&theme=tokyonight)](https://github.com/ic7400a)</p>
+![](https://komarev.com/ghpvc/?username=ic7400a&color=blueviolet) 
 
 ### 🛠️ Tech Stack  
 #### Programming Languages  
