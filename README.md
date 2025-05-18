@@ -3,7 +3,9 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2C3E50,100:2C3E50&text=Hello%20there!%20I'm%20Ayusman%20Nanda&textBg=false&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=A%20passionate%20learner%20and%20developer&section=header&animation=fadeIn&descAlignY=50" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ic7400a&style=flat&color=2C3E50&label=Profile%20Views" alt="Profile Views" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto%20Mono&size=40&duration=2500&pause=800&color=2C3E50&center=true&vCenter=true&width=700&lines=Kernel%20%7C%20OS%20%7C%20Compilers%20%7C%20HAL" alt="Typing Intro and Tech Stack" />
 </p>
