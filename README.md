@@ -1,23 +1,27 @@
 <!-- Intro -->
+<!-- Header Image below intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto%20Mono&size=40&duration=2500&pause=800&color=2C3E50&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20Ayusman%20Nanda;Kernel%20%7C%20OS%20%7C%20Compilers%20%7C%20HAL" alt="Typing Intro and Tech Stack" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2C3E50,100:2C3E50&text=Hello%20there!%20I'm%20Ayusman%20Nanda&textBg=false&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=A%20passionate%20learner%20and%20developer&section=header&animation=fadeIn&descAlignY=50" />
 </p>
 
-<p align="center" style="max-width: 600px; margin: auto; font-size: 16px; color: #2C3E50;">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto%20Mono&size=40&duration=2500&pause=800&color=2C3E50&center=true&vCenter=true&width=700&lines=Kernel%20%7C%20OS%20%7C%20Compilers%20%7C%20HAL" alt="Typing Intro and Tech Stack" />
+</p>
+
+<p align="center" style="max-width: 600px; margin: auto; font-size: 18px; color: #2C3E50;">
   Currently engaged in kernel development, compilers, and hardware abstraction layers. Committed to continuous learning and growth in systems programming and contributing to open-source communities.
 </p>
 
 ---
 
-
 ### Technical Focus
 
-<p align="center" style="max-width: 450px; margin: auto; text-align: center;">
-Kernel & OS Internals (Linux, AOSP)<br>
-HAL Development for Android devices<br>
-Compiler backends, build systems<br>
-Bare-metal firmware & bring-ups<br>
-Embedded systems and recovery engineering
+<p align="center" style="max-width: 450px; margin: auto; text-align: center; font-size: 17px;">
+  Kernel & OS Internals (Linux, AOSP)<br>
+  HAL Development for Android devices<br>
+  Compiler backends, build systems<br>
+  Bare-metal firmware & bring-ups<br>
+  Embedded systems and recovery engineering
 </p>
 
 ---
@@ -83,5 +87,5 @@ Embedded systems and recovery engineering
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=200&section=footer" />
 </p>
