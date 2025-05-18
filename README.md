@@ -31,8 +31,8 @@ Driven by precision, performance, and the power of open source. I work close to 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ic7400a&show_icons=true&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic7400a&layout=compact&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ic7400a&show_icons=true&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" width="350" height="160" style="object-fit: contain;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic7400a&layout=compact&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" width="350" height="160" style="object-fit: contain;"/>
 </div>
 
 ---
@@ -40,11 +40,14 @@ Driven by precision, performance, and the power of open source. I work close to 
 ### More Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ic7400a&theme=material-palenight&hide_border=true" height="160px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ic7400a&theme=github_dark" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ic7400a&theme=material-palenight&hide_border=true" width="350" height="160" style="object-fit: contain;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ic7400a&theme=github_dark" width="350" height="160" style="object-fit: contain;"/>
 </div>
 
 ---
+
+
+
 
 ### Reach Out
 
