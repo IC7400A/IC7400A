@@ -3,11 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto%20Mono&size=24&duration=2500&pause=800&color=2C3E50&center=true&vCenter=true&width=700&lines=Hi%2C%20I'm%20Ayusman%20Nanda;Kernel%20%7C%20OS%20%7C%20Compilers%20%7C%20HAL" alt="Typing Intro and Tech Stack" />
 </p>
 
-<p align="center">
-Driven by precision, performance, and the power of open source. I work close to the metal — from kernels to compilers and HAL.
+<p align="center" style="max-width: 600px; margin: auto; font-size: 16px; color: #2C3E50;">
+  Currently exploring kernel development, compilers, and hardware abstraction layers. Eager to learn and grow in systems programming and open-source communities.
 </p>
 
 ---
+
 
 ### Technical Focus
 
