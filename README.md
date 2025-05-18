@@ -10,21 +10,28 @@ Driven by precision, performance, and the power of open source. I work close to 
 ---
 
 ### Technical Focus
-- Kernel & OS Internals (Linux, AOSP)
-- HAL Development for Android devices
-- Compiler backends, build systems
-- Bare-metal firmware & bring-ups
-- Embedded systems and recovery engineering
+
+<div align="center">
+- Kernel & OS Internals (Linux, AOSP)  
+- HAL Development for Android devices  
+- Compiler backends, build systems  
+- Bare-metal firmware & bring-ups  
+- Embedded systems and recovery engineering  
+</div>
 
 ---
 
 ### Tools of the Trade
+
+<div align="center">
 
 | Toolchain            | Platforms              | Languages                 |
 |----------------------|------------------------|----------------------------|
 | GCC / Clang / LLVM   | Linux (Debian, Arch)   | C, C++, ASM, Rust (✦)     |
 | GDB, QEMU            | AOSP / LineageOS       | Shell, Python              |
 | Make / Ninja         | Recovery / U-Boot      |                            |
+
+</div>
 
 ---
 
@@ -45,9 +52,6 @@ Driven by precision, performance, and the power of open source. I work close to 
 </div>
 
 ---
-
-
-
 
 ### Reach Out
 
