@@ -56,7 +56,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ic7400a&theme=material-palenight&hide_border=true" width="350" height="160" style="object-fit: contain;" />
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ic7400a&theme=github_dark" width="350" height="160" style="object-fit: contain;"> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ic7400a&theme=material-palenight&hide_border=true&area=true&background=00000000" width="350" height="175" style="object-fit: contain; border:none; box-shadow:none; margin-left: 10px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ic7400a&theme=material-palenight&hide_border=true&area=true&background=00000000" width="350" height="160" style="object-fit: contain; border:none; box-shadow:none; margin-left: 10px;" />
 </div>
 
 ---
