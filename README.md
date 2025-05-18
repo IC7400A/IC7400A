@@ -11,13 +11,13 @@ Driven by precision, performance, and the power of open source. I work close to 
 
 ### Technical Focus
 
-<div align="center">
-- Kernel & OS Internals (Linux, AOSP)  
-- HAL Development for Android devices  
-- Compiler backends, build systems  
-- Bare-metal firmware & bring-ups  
-- Embedded systems and recovery engineering  
-</div>
+<p align="center" style="max-width: 450px; margin: auto; text-align: center;">
+Kernel & OS Internals (Linux, AOSP)<br>
+HAL Development for Android devices<br>
+Compiler backends, build systems<br>
+Bare-metal firmware & bring-ups<br>
+Embedded systems and recovery engineering
+</p>
 
 ---
 
@@ -26,10 +26,10 @@ Driven by precision, performance, and the power of open source. I work close to 
 <div align="center">
 
 | Toolchain            | Platforms              | Languages                 |
-|----------------------|------------------------|----------------------------|
-| GCC / Clang / LLVM   | Linux (Debian, Arch)   | C, C++, ASM, Rust (✦)     |
-| GDB, QEMU            | AOSP / LineageOS       | Shell, Python              |
-| Make / Ninja         | Recovery / U-Boot      |                            |
+|----------------------|------------------------|---------------------------|
+| GCC / Clang / LLVM   | Linux (Debian, Arch)   | C, C++, ASM, Rust         |
+| GDB, QEMU            | AOSP / LineageOS       | Shell, Python             |
+| Make / Ninja         | Recovery / U-Boot      |                           |
 
 </div>
 
@@ -38,8 +38,8 @@ Driven by precision, performance, and the power of open source. I work close to 
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ic7400a&show_icons=true&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" width="350" height="160" style="object-fit: contain;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic7400a&layout=compact&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" width="350" height="160" style="object-fit: contain;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ic7400a&show_icons=true&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" width="350" height="160" style="object-fit: contain;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic7400a&layout=compact&theme=material-palenight&hide_title=true&hide_border=true&bg_color=00000000" width="350" height="160" style="object-fit: contain;" />
 </div>
 
 ---
@@ -47,9 +47,9 @@ Driven by precision, performance, and the power of open source. I work close to 
 ### More Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ic7400a&theme=material-palenight&hide_border=true" width="350" height="160" style="object-fit: contain;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ic7400a&theme=material-palenight&hide_border=true" width="350" height="160" style="object-fit: contain;" />
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ic7400a&theme=github_dark" width="350" height="160" style="object-fit: contain;"> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ic7400a&theme=material-palenight&hide_border=true&area=true&background=00000000" width="350" height="175" style="object-fit: contain; border:none; box-shadow:none; margin-left: 10px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ic7400a&theme=material-palenight&hide_border=true&area=true&background=00000000" width="350" height="175" style="object-fit: contain; border:none; box-shadow:none; margin-left: 10px;" />
 </div>
 
 ---
@@ -75,12 +75,12 @@ Driven by precision, performance, and the power of open source. I work close to 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ic7400a/ic7400a/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ic7400a/ic7400a/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ic7400a/ic7400a/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ic7400a/ic7400a/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ic7400a/ic7400a/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ic7400a/ic7400a/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
