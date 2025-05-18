@@ -4,7 +4,7 @@
 </p>
 
 <p align="center" style="max-width: 600px; margin: auto; font-size: 16px; color: #2C3E50;">
-  Currently exploring kernel development, compilers, and hardware abstraction layers. Eager to learn and grow in systems programming and open-source communities.
+  Currently engaged in kernel development, compilers, and hardware abstraction layers. Committed to continuous learning and growth in systems programming and contributing to open-source communities.
 </p>
 
 ---
@@ -28,8 +28,8 @@ Embedded systems and recovery engineering
 
 | Toolchain            | Platforms              | Languages                 |
 |----------------------|------------------------|---------------------------|
-| GCC / Clang / LLVM   | Linux (Debian, Arch)   | C, C++, ASM, Rust         |
-| GDB, QEMU            | AOSP / LineageOS       | Shell, Python             |
+| GCC / Clang / LLVM   | Linux (Debian, Arch)   | C, C++, Assembly, Rust    |
+| GDB, QEMU            | AOSP / LineageOS       | Shell scripting, Python   |
 | Make / Ninja         | Recovery / U-Boot      |                           |
 
 </div>
@@ -83,5 +83,5 @@ Embedded systems and recovery engineering
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=100&section=footer" />
 </p>
